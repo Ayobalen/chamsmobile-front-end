@@ -15,4 +15,4 @@ We've learned so far about how to send data to server and get the response back 
 
 We've seen how we can update our React state with the data received from the server and render our UI with that updated data.
 # chamsmobile-front-end
-# chamsmobile-front-end
+# we can start the server with npm run start
